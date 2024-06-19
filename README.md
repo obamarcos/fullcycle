@@ -1,7 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Desafio FullCycle</h3>
+  <h2 align="center">Desafio FullCycle</h2>
+  <h3 align="center">Módulo Docker</h3>
 
   <p align="center">
     <strong>Primeiro desafio do módulo Docker</strong>
